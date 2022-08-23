@@ -1,5 +1,8 @@
+# About the app
+This app lets you know the current temperature of most of the places around the globe.
 # Link
-https://weeeather.netlify.app/
+https://tempnow.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
